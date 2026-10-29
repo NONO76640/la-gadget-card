@@ -2,9 +2,6 @@
 
 Générateur Lovelace Home Assistant, site statique gratuit.
 
-## Publication Cloudflare Pages
-
-Connecter ce dépôt GitHub à Cloudflare Pages, choisir le preset None et laisser la commande de build vide. Publier le dossier racine.
 
 ## Dépendances côté Home Assistant
 
