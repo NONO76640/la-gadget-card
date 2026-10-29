@@ -1,12 +1,12 @@
-# La Gadget-Card V5
 
-Générateur Lovelace Home Assistant, site statique gratuit.
+<p align="center">
+  <img src="gadget-card-banner.webp" alt="La Gadget-Card" width="100%">
+</p>
 
+# ⚡ La Gadget-Card
 
-## Dépendances côté Home Assistant
+### 🖤💛 Votre maison, à votre façon !
 
-Installer Bubble Card, Mushroom et card-mod via HACS.
+Générateur de cartes Lovelace personnalisées pour Home Assistant.
 
-## Remarque
-
-L’aperçu est une simulation et le YAML doit être testé dans Home Assistant.
+Créez vos cartes avec des grilles personnalisables, des animations lumineuses, des icônes fantômes et récupérez votre configuration YAML en un clic.
