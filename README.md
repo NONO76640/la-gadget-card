@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="gadget-card-banner.webp" alt="La Gadget-Card" width="100%">
+  <img src="gadget-card-banner.png" alt="La Gadget-Card" width="100%">
 </p>
 
 # ⚡ La Gadget-Card
