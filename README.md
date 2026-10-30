@@ -10,3 +10,6 @@
 Générateur de cartes Lovelace personnalisées pour Home Assistant.
 
 Créez vos cartes avec des grilles personnalisables, des animations lumineuses, des icônes fantômes et récupérez votre configuration YAML en un clic.
+
+
+https://la-gadget-card.la-gadget-card.workers.dev/
